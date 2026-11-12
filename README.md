@@ -1,7 +1,5 @@
 # Pack your program into a box (Docker)
 
-> Matches **Chapter 06** in the book. The runnable scripts for this chapter are in this folder.
-
 **Labels:** 💻 Runs free on your laptop · 🧑‍🤝‍🧑 Easier with a helper the first time
 
 ---
